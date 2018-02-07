@@ -1,6 +1,6 @@
 {
   "name": "@kraihn/az-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "homepage": "",
   "author": {
@@ -9,7 +9,7 @@
     "url": "https://www.jareddickson.com"
   },
   "bin": {
-    "azc": "bin/index.js"
+    "azc": "bin/cli.js"
   },
   "files": [
     "dist",
